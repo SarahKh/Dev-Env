@@ -10,7 +10,7 @@ h1 {
   text-align: center;
   margin-bottom: 20px;
   margin-top: 20px;
-  font-size: calc(75% + 16px);
+  font-size: 175%;
   font-weight: bold;
 }
 p {
@@ -32,7 +32,7 @@ section{
     background-color: #AAAA2A;
     padding: 5px;
     text-align: center;
-    font-size: calc(25% + 16px);
+    font-size: 125%;
     font-weight: bold;
 }
 
