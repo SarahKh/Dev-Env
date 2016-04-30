@@ -73,7 +73,6 @@ section .content {
   text-align: justify;
 }
 section .title_section {
-  text-align: center;
   font-size: 1.25em;
   font-weight: bold;
   margin-bottom: 10px;
